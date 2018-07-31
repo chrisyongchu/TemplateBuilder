@@ -17,4 +17,4 @@ Chris Yongchu
 * https://twitter.com/chrisyongchu
 
 ## Copyright and license
-Code and documentation copyright 2017. Code released under the [MIT License](https://sanbox.org/etc/blob/master/licenses/MIT/).
+Code and documentation copyright 2018. Code released under the [MIT License](https://sanbox.org/etc/blob/master/licenses/MIT/).
