@@ -9,8 +9,6 @@ tinymce.init({
   plugins: 'template_builder'
 });
 ```
-![template builer](https://remarkabledocs.com/etc/blob/master/tb/tb_toolbar_icon.png)
-
 ## Versioning
 For transparency into the release cycle and in striving to maintain backward compatibility, Template Builder is maintained under the [Semantic Versioning guidelines](http://semver.org/). I'm not perfect, but I'll adhere to those rules whenever possible.
 
